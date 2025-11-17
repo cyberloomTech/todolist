@@ -106,14 +106,3 @@ jobs:
           PREMIUM: true
 ```
 
-3. Remaining Steps will be same as Non-Premium Users.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
-
-_Inspired by [yg/todoist-box](https://github.com/yg/todoist-box)_
-
-_Inspired by [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)_
